@@ -11,7 +11,7 @@ const ContactPage = () => (
     <style dangerouslySetInnerHTML={{__html: `
       body { background: #bae6ce }
     `}} />
-
+    <div style={{paddingLeft:"20%", paddingRight:"20%"}}>
     <h1>have something to share?</h1>
     <div class="contact">
           <form action="mailto:anusrisaraf20@gmail.com" method="post" encType="text/plain">
@@ -24,7 +24,7 @@ const ContactPage = () => (
             <input class="uwu" type="submit" value="send"></input>
             <input class="uwu" type="reset" value="clear"></input>
           </form>
-          
+          </div>
       </div>
   </Layout>
 )

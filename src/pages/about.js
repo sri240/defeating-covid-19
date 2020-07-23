@@ -9,9 +9,9 @@ const AboutPage = () => (
     <SEO title="about" />
 
     <style dangerouslySetInnerHTML={{__html: `
-      body { background: #e3ac94 }
+      body { background: #e3ac94}
     `}} />
-    <div style={{display:"flex", flex:"row", flexWrap:"wrap"}}>
+    <div style={{display:"flex", flex:"row", flexWrap:"wrap", paddingLeft:"20%", paddingRight:"20%"}}>
 
     <h1>who?</h1>
     <p class="desc">Hi! I'm the founder of Defeating COVID-19, Anusri Saraf. COVID-19 Shelter In Place in my area occurred in the April of my sophomore year, causing me to contemplate what I could do to help others during this time. I lost many opportunities, but I kept my head up and looked forward to more, and my passion for helping people combined with my web development knowledge, and Defeating COVID-19 was born.</p>
