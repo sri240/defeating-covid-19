@@ -8,9 +8,12 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="home" />
-    <h1>we can all make a difference.</h1>
-    <p>Sitting at home, one might stumble upon the preposterous idea of helplessness, taking no notice of the potential for change in each and every one of us. During this time, positivity is a treasure, and being able to share our stories can unite us to defeat COVID-19, together.</p>
-    <div class="help"><h1 class="help">how you can help</h1>
+    <div class="uuu"><h1>we can all make a difference.</h1>
+    <p>Sitting at home, one might stumble upon the preposterous idea of helplessness, taking no notice of the potential for change in each and every one of us. During this time, positivity is a treasure, and being able to share our stories can unite us to defeat COVID-19, together.</p></div>
+    <div class="help">
+      <div class="p">
+      <h1 class="help">how you can help</h1>
+      <div class="con">
       <div class="donate">
         <h3 class="secheader">DONATE</h3>
         <div class="dopp"><a href="https://www.unicefusa.org/?form=FUNXJWDPUKI&utm_content=corona3&ms=cpc_dig_2020_Emergencies_20200316_google_corona3_delve_none&initialms=cpc_dig_2020_Emergencies_20200316_google_corona3_delve_none&gclid=CjwKCAjwr7X4BRA4EiwAUXjbt1xxFMB4lOqdhuNUmATqAplV3-5nNlG-9xsmPo6EiGdvZ9cUQAlQJBoCMysQAvD_BwE" rel="noreferrer noopener" target="_blank">
@@ -29,6 +32,7 @@ const IndexPage = () => (
           <p>Donate to the COVID-19 Solidarity Response Fund</p>
           </a>
         </div>
+        
       </div>
 
 
@@ -45,6 +49,8 @@ const IndexPage = () => (
           <p>Make a face shield for yourself or other frontline workers from the comfort of your own home, with instructions from Emerson Hospital.</p>
           </a></div>
       </div>
+      </div>
+      </div>
 
     </div>
 
@@ -52,12 +58,12 @@ const IndexPage = () => (
 
 
     <div class="stories" style={{marginBottom:"30px", paddingBottom:"10px"}}>
-      <h1 class="stories">our stories</h1>
+      <div class="p"><h1 class="stories">our stories</h1>
       <br></br>
       <div class="person"><p>Nothing in this life is simple or one-sided: of course, the same can be said for even a global pandemic. As many 
         of us are aware, there will be pain and suffering, but where there is a widespread difficulty, it up to us to unite, as humanity, to grow 
         and get past it. During this quarantine, I've been able to re-examine how I'm spending my time, and build a more healthy lifestyle. I've been working out, 
-          eating healthier, sleeping more, and making time for myself, as opposed to enduring the burn as I chased my speeding train of a schedule. I also picked up baking, as if i don't have an influx of sugary house anyways.
+          eating healthier, sleeping more, and making time for myself, as opposed to enduring the burn as I chased my speeding train of a schedule. I also picked up baking, as if I don't have an influx of sugar in the house anyways.
           I've been able to make time to make music, build websites, and write. I picnic in my backyard and listen to music and watch Netflix on days I decide to 
           relax (for pretty much the first time ever...I know, it's unbelievable, so send me good show recommendations). I've been able to get back to dancing when I can, and singing all the time, simply because I'm at home for most of the day. 
           Listening to the news, I've realized that everyone, no matter in how miniscule of a manner, can have an impact on the current pandemic, which led me to create 
@@ -129,6 +135,7 @@ const IndexPage = () => (
       <h1 class="t">&nbsp; andrei, livermore</h1>
       </div>
       <br></br>
+      </div>
       </div>
 
   </Layout>

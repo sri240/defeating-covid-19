@@ -10,6 +10,15 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow: hidden;
 }
+@media handheld, only screen and (max-width: 767px) {
+  #p {
+    padding:none;
+  }
+}
+.uuu{
+  margin-left: 20%;
+  margin-right: 20%;
+}
 .desc{
   margin-top:-20px;
 }
@@ -55,6 +64,15 @@ body {
   padding-left: 0;
   width: 100vw;
 }
+.con{
+  display:flex;
+  flex-direction:row;
+  flex-wrap: wrap;
+}
+.p{
+  padding-left: 20%;
+  padding-right: 20%;
+}
 h1.t{
   margin-top:-30px;
   float:right;
@@ -73,39 +91,37 @@ h1.t{
 .dopp:hover{
   background:white;
 }
-.help{
-  width:100vw;
+div.help{
+  background-size: 100%;
   background: #bae6ce;
   margin-bottom: 0px;
-  margin-left: 20px;
 }
 .secheader{
   margin-bottom: 0px;
   color:#787878;
 }
 h1.help{
-  padding-top: 5px;
+  padding-top: 18px;
   padding-left: 10px;
   
 }
 .donate, .create{
   padding:5px;
-  padding-left:30px;
+  padding-left:3%;
+  width: 420px;
 }
 .stories{
-  width:100vw;
   background: #e3ac94;
   margin-bottom: 0px;
 }
 h1.stories{
-  padding-top: 5px;
-  padding-left: 20px;
+  padding-top: 18px;
+  padding-left: 10px;
 }
 .person{
-  margin-left: 30px;
-  width:79%;
+  margin-left: 3%;
 }
-.donate{
+.donate, .create{
   font-family: 'Montserrat', sans-serif;
 }
 article,
@@ -115,7 +131,7 @@ figcaption,
 figure,
 footer,
 header,
-main,
+main, 
 menu,
 nav,
 section,

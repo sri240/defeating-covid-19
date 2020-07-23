@@ -29,14 +29,15 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
+          maxWidth: 'none'
         }}
       >
         <main>{children}</main>
         <footer style = {{
           fontFamily: "SFMono-Regular,Consolas,Roboto Mono,Droid Sans Mono,Liberation Mono,Menlo,Courier,monospace",
-          marginTop:"10px"
+          marginTop:"10px",
+          marginLeft:"20%",
+          marginBottom:"20px"
         }}>
          created by anusri saraf
       {/*{new Date().getFullYear()}, */}
