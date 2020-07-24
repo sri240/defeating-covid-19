@@ -85,6 +85,20 @@ const IndexPage = () => (
       </div>
 
       <br></br>
+      <div class="person"><p>I've been trying to keep myself together, although, admittedly, with the combined stress of upcoming exams like SATs, pressure from knowing 
+        i'm going to college in two years, and generally not being able to see the people who made me happy every day at school, it's been hard. Having obligations that 
+        force me to keep going, like classes, helps get me up in the morning. It's definitely been hard to keep up a healthy lifestyle in quarantine, but hopefully, it 
+        will be worth it. I've picked up some old hobbies like dancing, guitar, and singing, and I'm relearning them since I have time anyways, I'm just trying to make 
+        sure I don't spend too much time relaxing nor do I work myself until I burn out. Balance is key! And also masks.</p>
+      <h1 class="t">&nbsp; daphne yan, bay area</h1>
+      </div>
+
+      <br></br>
+      <div class="person"><p>i spent at least an hour a day browsing shoobs on facebook.</p>
+      <h1 class="t">&nbsp; vihan bhargava, bay area</h1>
+      </div>
+
+      <br></br>
       <div class="person"><p>I have: built my own plex cloud server, updated all my classes for 2020/21, built a new desk, produced an online summer camp, wrote a duet piece for piano, and got into lots of trouble! I mostly enjoyed the connection, conversations and troublemaking between the students I serve, the teams I work with and my friends.</p>
       <h1 class="t">&nbsp; irvin lemus, bay area</h1>
       </div>
