@@ -61,14 +61,14 @@ const IndexPage = () => (
       <div class="p"><h1 class="stories">our stories</h1>
       <br></br>
       <div class="person"><p>Nothing in this life is simple or one-sided: of course, the same can be said for even a global pandemic. As many 
-        of us are aware, there will be pain and suffering, but where there is a widespread difficulty, it up to us to unite, as humanity, to grow 
+        of us are aware, there will be pain and suffering, but where there is a widespread difficulty, it is up to us to unite, as humanity, to grow 
         and get past it. During this quarantine, I've been able to re-examine how I'm spending my time, and build a more healthy lifestyle. I've been working out, 
           eating healthier, sleeping more, and making time for myself, as opposed to enduring the burn as I chased my speeding train of a schedule. I also picked up baking, as if I don't have an influx of sugar in the house anyways.
-          I've been able to make time to make music, build websites, and write. I picnic in my backyard and listen to music and watch Netflix on days I decide to 
+          I've been able to make time to make music, build websites, and write. I picnic in my backyard, listen to music and watch Netflix on days I decide to 
           relax (for pretty much the first time ever...I know, it's unbelievable, so send me good show recommendations). I've been able to get back to dancing when I can, and singing all the time, simply because I'm at home for most of the day. 
           Listening to the news, I've realized that everyone, no matter in how miniscule of a manner, can have an impact on the current pandemic, which led me to create 
           Defeating COVID-19. Climbing the hill may be difficult, but we can together, and the view from the summit is the ultimate reward: we can unite, share our 
-          stories and positivity, and get over this pandemic together.</p>
+          stories and positivity, and get over this pandemic.</p>
       <h1 class="t">&nbsp; anusri saraf, bay area</h1>
       </div>
 
@@ -79,7 +79,7 @@ const IndexPage = () => (
         things and an influx of time, which though not spent on school, enabled me to explore my hobbies significantly more. I was able to make more music than I was 
         able to before, I was able to develop the most advanced version of Jade, my AI chatbot, and I was able to spend some time taking pictures of local things, 
         walking around my neighborhood for once. Though I've missed out on a lot of opportunities in my social, academic, and professional life because of the pandemic, 
-        I won't be one to say that the time I've spent at home wasn't productive or interesting; quite the opposite- and I hope everyone else out there feels that way 
+        I won't be one to say that the time I've spent at home wasn't productive or interesting; quite the oppositeand I hope everyone else out there feels that way 
         too. It's tough times, for sure, but we'll all get through it; if not somehow, then sometime.</p>
       <h1 class="t">&nbsp; jess fan, bay area</h1>
       </div>

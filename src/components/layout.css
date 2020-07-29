@@ -11,7 +11,7 @@ body {
   overflow: hidden;
 }
 @media handheld, only screen and (max-width: 767px) {
-  #p {
+  body {
     padding:none;
   }
 }
