@@ -86,17 +86,17 @@ const IndexPage = () => (
       </div>
 
       <br></br>
+      <div class="person"><p>I've been doing pretty well. I've been doing some things that I didn't always have time for before. For example, I've been baking, spending more time with family, walking my dog more, and doing some crafts. I've also been using the time to study for my SAT and tutor people in math. It's also given me some extra time to take care of myself: I've been doing home-workouts, eating healthier, and sleeping more. Like everything in life, COVID-19 has had some positive and negative effects for me. On the positive side, it's given me some extra free time and given me a little break from a busy schedule. Some of the negative effects include not being able to go to school in person, losing in-person contact with others, and canceling some events I was looking forward to. I'm starting to get bored of staying home, and I'm especially sad that my last year of high school won't be in-person. I miss seeing my friends and teachers at school, and just getting out of the house more. But, even though I missed out on some opportunities, I've still been staying optimistic about the future. We're all in the same boat, and we'll all get through this together.</p>
+      <h1 class="t">&nbsp; saara, livermore</h1>
+      </div>
+
+      <br></br>
       <div class="person"><p>I've been trying to keep myself together, although, admittedly, with the combined stress of upcoming exams like SATs, pressure from knowing 
         i'm going to college in two years, and generally not being able to see the people who made me happy every day at school, it's been hard. Having obligations that 
         force me to keep going, like classes, helps get me up in the morning. It's definitely been hard to keep up a healthy lifestyle in quarantine, but hopefully, it 
         will be worth it. I've picked up some old hobbies like dancing, guitar, and singing, and I'm relearning them since I have time anyways, I'm just trying to make 
         sure I don't spend too much time relaxing nor do I work myself until I burn out. Balance is key! And also masks.</p>
       <h1 class="t">&nbsp; daphne yan, bay area</h1>
-      </div>
-
-      <br></br>
-      <div class="person"><p>I've been doing pretty well. I've been doing some things that I didn't always have time for before. For example, I've been baking, spending more time with family, walking my dog more, and doing some crafts. I've also been using the time to study for my SAT and tutor people in math. It's also given me some extra time to take care of myself: I've been doing home-workouts, eating healthier, and sleeping more. Like everything in life, COVID-19 has had some positive and negative effects for me. On the positive side, it's given me some extra free time and given me a little break from a busy schedule. Some of the negative effects include not being able to go to school in person, losing in-person contact with others, and canceling some events I was looking forward to. I'm starting to get bored of staying home, and I'm especially sad that my last year of high school won't be in-person. I miss seeing my friends and teachers at school, and just getting out of the house more. But, even though I missed out on some opportunities, I've still been staying optimistic about the future. We're all in the same boat, and we'll all get through this together.</p>
-      <h1 class="t">&nbsp; saara, livermore</h1>
       </div>
 
       <br></br>
