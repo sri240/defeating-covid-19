@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const AboutPage = () => (
   <Layout>
     <SEO title="about" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
     <style dangerouslySetInnerHTML={{__html: `
       body { background: #e3ac94}
     `}} />

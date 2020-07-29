@@ -8,6 +8,8 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="home" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+
     <div class="uuu"><h1>we can all make a difference.</h1>
     <p>Sitting at home, one might stumble upon the preposterous idea of helplessness, taking no notice of the potential for change in each and every one of us. During this time, positivity is a treasure, and being able to share our stories can unite us to defeat COVID-19, together.</p></div>
     <div class="help">

@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const ContactPage = () => (
   <Layout>
     <SEO title="contact" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
     <style dangerouslySetInnerHTML={{__html: `
       body { background: #bae6ce }
     `}} />
