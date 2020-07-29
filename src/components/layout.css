@@ -10,20 +10,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow: hidden;
 }
-/*@viewport {
+@viewport {
   width: device-width ;
   zoom: 1.0 ;
-}*/
-/*@media screen and (max-width: 800px) {
+}
+@media screen and (max-width: 800px) {
   p {
     padding-left:10%;
     padding-right: 10%;
   }
-  .uuu{
-    margin-left: 10%;
-    margin-right: 10%;
-  }
-}*/
+}
 .uuu{
   margin-left: 20%;
   margin-right: 20%;
@@ -765,7 +761,7 @@ pre tt:before,
 pre tt:after {
   content: "";
 }
-/*@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
   }
@@ -777,4 +773,8 @@ pre tt:after {
     border-bottom: 1px solid black;
     padding-bottom: 20px;
   }
-}*/
+  .uuu{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
