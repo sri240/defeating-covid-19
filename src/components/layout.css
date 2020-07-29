@@ -14,9 +14,14 @@ body {
   width: device-width ;
   zoom: 1.0 ;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 800px) {
   p {
-    padding:none;
+    padding-left:10%;
+    padding-right: 10%;
+  }
+  .uuu{
+    margin-left: 10%;
+    margin-right: 10%;
   }
 }
 .uuu{
@@ -73,7 +78,7 @@ body {
   flex-direction:row;
   flex-wrap: wrap;
 }
-.p{
+p{
   padding-left: 20%;
   padding-right: 20%;
 }
@@ -764,4 +769,12 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+  p{
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  /*.person{
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+  }*/
 }

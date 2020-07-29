@@ -11,7 +11,7 @@ const IndexPage = () => (
     <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
 
     <div class="uuu"><h1>we can all make a difference.</h1>
-    <p>Sitting at home, one might stumble upon the preposterous idea of helplessness, taking no notice of the potential for change in each and every one of us. During this time, positivity is a treasure, and being able to share our stories can unite us to defeat COVID-19, together.</p></div>
+    <p>Sitting at home, one might stumble upon tx preposterous idea of helplessness, taking no notice of the potential for change in each and every one of us. During this time, positivity is a treasure, and being able to share our stories can unite us to defeat COVID-19, together.</p></div>
     <div class="help">
       <div class="p">
       <h1 class="help">how you can help</h1>
@@ -96,7 +96,12 @@ const IndexPage = () => (
       </div>
 
       <br></br>
-      <div class="person"><p>i spent at least an hour a day browsing shoobs on facebook.</p>
+      <div class="person"><p>I've been doing pretty well. I've been doing some things that I didn't always have time for before. For example, I've been baking, spending more time with family, walking my dog more, and doing some crafts. I've also been using the time to study for my SAT and tutor people in math. It's also given me some extra time to take care of myself: I've been doing home-workouts, eating healthier, and sleeping more. Like everything in life, COVID-19 has had some positive and negative effects for me. On the positive side, it's given me some extra free time and given me a little break from a busy schedule. Some of the negative effects include not being able to go to school in person, losing in-person contact with others, and canceling some events I was looking forward to. I'm starting to get bored of staying home, and I'm especially sad that my last year of high school won't be in-person. I miss seeing my friends and teachers at school, and just getting out of the house more. But, even though I missed out on some opportunities, I've still been staying optimistic about the future. We're all in the same boat, and we'll all get through this together.</p>
+      <h1 class="t">&nbsp; saara, livermore</h1>
+      </div>
+
+      <br></br>
+      <div class="person"><p>i spend at least an hour a day browsing shoobs on facebook.</p>
       <h1 class="t">&nbsp; vihan bhargava, bay area</h1>
       </div>
 
