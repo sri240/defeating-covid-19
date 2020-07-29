@@ -87,7 +87,7 @@ const IndexPage = () => (
 
       <br></br>
       <div class="person"><p>I've been doing pretty well. I've been doing some things that I didn't always have time for before. For example, I've been baking, spending more time with family, walking my dog more, and doing some crafts. I've also been using the time to study for my SAT and tutor people in math. It's also given me some extra time to take care of myself: I've been doing home-workouts, eating healthier, and sleeping more. Like everything in life, COVID-19 has had some positive and negative effects for me. On the positive side, it's given me some extra free time and given me a little break from a busy schedule. Some of the negative effects include not being able to go to school in person, losing in-person contact with others, and canceling some events I was looking forward to. I'm starting to get bored of staying home, and I'm especially sad that my last year of high school won't be in-person. I miss seeing my friends and teachers at school, and just getting out of the house more. But, even though I missed out on some opportunities, I've still been staying optimistic about the future. We're all in the same boat, and we'll all get through this together.</p>
-      <h1 class="t">&nbsp; saara, livermore</h1>
+      <h1 class="t">&nbsp; saara, bay area</h1>
       </div>
 
       <br></br>
