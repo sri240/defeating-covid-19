@@ -14,12 +14,6 @@ body {
   width: device-width ;
   zoom: 1.0 ;
 }
-@media screen and (max-width: 800px) {
-  p {
-    padding-left:10%;
-    padding-right: 10%;
-  }
-}
 .uuu{
   margin-left: 20%;
   margin-right: 20%;
@@ -82,6 +76,8 @@ h1.t{
   margin-top:-30px;
   float:right;
   margin-bottom: 0px;
+  text-align: right;
+  width: 100%;
 }
 .opp{
   margin-bottom: 0px;
@@ -765,16 +761,34 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-  p{
-    padding-left: 3%;
-    padding-right: 3%;
+  .p{
+    padding-left: 10%;
+    padding-right: 10%;
   }
   .person{
+    display: inline-block;
+    height:auto;
+    position:relative;
+    padding-top: 20px;
+  }
+  .t{
+    margin-top: 15px;
+    padding-bottom:15px;
     border-bottom: 1px solid black;
-    padding-bottom: 20px;
   }
   .uuu{
     margin-left: 10%;
     margin-right: 10%;
+  }
+  .f{
+    margin-top: 0px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 1400px) {
+  .donate, .create{
+    width:100%;
+  }
+  .dopp{
+    width:100%;
   }
 }

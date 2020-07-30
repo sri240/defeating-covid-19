@@ -61,7 +61,7 @@ const IndexPage = () => (
     <div class="stories" style={{marginBottom:"30px", paddingBottom:"10px"}}>
       <div class="p"><h1 class="stories">our stories</h1>
       <br></br>
-      <div class="person"><p>Nothing in this life is simple or one-sided: of course, the same can be said for even a global pandemic. As many 
+      <div class="person" class="f"><p>Nothing in this life is simple or one-sided: of course, the same can be said for even a global pandemic. As many 
         of us are aware, there will be pain and suffering, but where there is a widespread difficulty, it is up to us to unite, as humanity, to grow 
         and get past it. During this quarantine, I've been able to re-examine how I'm spending my time, and build a more healthy lifestyle. I've been working out, 
           eating healthier, sleeping more, and making time for myself, as opposed to enduring the burn as I chased my speeding train of a schedule. I also picked up baking, as if I don't have an influx of sugar in the house anyways.
@@ -98,9 +98,11 @@ const IndexPage = () => (
         sure I don't spend too much time relaxing nor do I work myself until I burn out. Balance is key! And also masks.</p>
       <h1 class="t">&nbsp; daphne yan, bay area</h1>
       </div>
+
+      <br></br>      <div class="person"><p>So far COVID has been an impact on me physically, but mostly mentally. At the very beginning of quarantine I had an extremely difficult time trying to control my restlessness and anxiety. I had some days were I was very mentally unstable and unhappy. However, I spent a great deal of time reading and listening to music which really helped me get through the tough times! After quarantine was lifted, I was able to go out and see my friends again and have fun with them, even if it was 6 feet apart. :)</p>      <h1 class="t">&nbsp; oviya m, livermore</h1>      </div>
       <br></br>      <div class="person"><p>I’ve been staying home since mid-March. I went to a social distanced graduation with up to 20 people and masks on. Because of the virus, I’m staying home for my fall quarter of college and probably the rest of the year too since all my classes are remote. It’s been tough missing the rest of senior year and the start of college, and not seeing my friends but it’s also made me a lot more grateful over regular things. </p>      <h1 class="t">&nbsp; mandy xu, california</h1>      </div>
       <br></br>      <div class="person"><p>I'm extremely grateful that I now have time to pursue my dreams - my burning, hot, zesty, spicy, fiery, passion for Gordon Ramsey. I am determined to finish every season of hell's kitchen before I step one foot outside my house again. I'm currently on season 7, almost half way there. Wish me luck and wear your MASK fools.</p>      <h1 class="t">&nbsp; henry, bay area</h1>      </div>
-
+      
 
       <br></br>
       <div class="person"><p>i spend at least an hour a day browsing shoobs on facebook.</p>
