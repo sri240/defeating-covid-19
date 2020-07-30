@@ -61,7 +61,7 @@ const IndexPage = () => (
     <div class="stories" style={{marginBottom:"30px", paddingBottom:"10px"}}>
       <div class="p"><h1 class="stories">our stories</h1>
       <br></br>
-      <div class="person" class="f"><p>Nothing in this life is simple or one-sided: of course, the same can be said for even a global pandemic. As many 
+      <div class="person"><p>Nothing in this life is simple or one-sided: of course, the same can be said for even a global pandemic. As many 
         of us are aware, there will be pain and suffering, but where there is a widespread difficulty, it is up to us to unite, as humanity, to grow 
         and get past it. During this quarantine, I've been able to re-examine how I'm spending my time, and build a more healthy lifestyle. I've been working out, 
           eating healthier, sleeping more, and making time for myself, as opposed to enduring the burn as I chased my speeding train of a schedule. I also picked up baking, as if I don't have an influx of sugar in the house anyways.

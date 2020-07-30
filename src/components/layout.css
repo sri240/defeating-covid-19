@@ -784,8 +784,8 @@ pre tt:after {
     margin-left: 10%;
     margin-right: 10%;
   }
-  .f{
-    margin-top: 0px;
+  h1.stories{
+    margin-bottom: -20px;
   }
 }
 @media only screen and (min-width: 480px) and (max-width: 1400px) {
