@@ -43,7 +43,7 @@ const IndexPage = () => (
       <div class="dopp">
         <a href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html" rel="noreferrer noopener" target="_blank">
           <h1 class="opp">make a mask</h1>
-          <p>Learn to make a mask in a way approved by the CDC easily at home, with or without sewing.</p>
+          <p>Learn to make a mask using a CDC-approved method (easy to make at home, with or without sewing!)</p>
           </a></div>
           <div class="dopp"><a href="https://www.emersonhospital.org/EmersonHospital/media/PDF-files/coronavirus/Homemade-Face-Shield-Instructions.pdf" rel="noreferrer noopener" target="_blank">
           <h1 class="opp">make a face shield</h1>
@@ -98,6 +98,9 @@ const IndexPage = () => (
         sure I don't spend too much time relaxing nor do I work myself until I burn out. Balance is key! And also masks.</p>
       <h1 class="t">&nbsp; daphne yan, bay area</h1>
       </div>
+      <br></br>      <div class="person"><p>I’ve been staying home since mid-March. I went to a social distanced graduation with up to 20 people and masks on. Because of the virus, I’m staying home for my fall quarter of college and probably the rest of the year too since all my classes are remote. It’s been tough missing the rest of senior year and the start of college, and not seeing my friends but it’s also made me a lot more grateful over regular things. </p>      <h1 class="t">&nbsp; mandy xu, california</h1>      </div>
+      <br></br>      <div class="person"><p>I'm extremely grateful that I now have time to pursue my dreams - my burning, hot, zesty, spicy, fiery, passion for Gordon Ramsey. I am determined to finish every season of hell's kitchen before I step one foot outside my house again. I'm currently on season 7, almost half way there. Wish me luck and wear your MASK fools.</p>      <h1 class="t">&nbsp; henry, bay area</h1>      </div>
+
 
       <br></br>
       <div class="person"><p>i spend at least an hour a day browsing shoobs on facebook.</p>
@@ -109,6 +112,11 @@ const IndexPage = () => (
       <h1 class="t">&nbsp; irvin lemus, bay area</h1>
       </div>
       
+      <br></br>
+      <div class="person"><p>I’ve been doing good. I’ve been planning and researching what I wanna do in the future once COVID ends and working on stuff for school before college starts. COVID has made me unable to attend in-person classes and extracurricular activities in college. </p>
+      <h1 class="t">&nbsp; james wu, livermore</h1>
+      </div>
+
       <br></br>
       <div class="person"><p>I've been doing pretty well these days. Although I’ve been quite busy each day, I still try to find the time to read books as I know I'll be too busy later on once school starts. I try to view this quarantine to be a self-healing experience where I have more time to start new hobbies and reflect on myself, especially with less interaction with others.</p>
       <h1 class="t">&nbsp; clarissa, california</h1>
