@@ -63,6 +63,10 @@ body {
   padding-left: 0;
   width: 100vw;
 }
+.jjj{
+  color:#232f29;
+  text-align: left;
+}
 .con{
   display:flex;
   flex-direction:row;
