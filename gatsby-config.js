@@ -15,6 +15,8 @@ module.exports = {
       "share",
       "anusri",
       "saraf",
+      "bay",
+      "bay area",
     ],
   },
   plugins: [
