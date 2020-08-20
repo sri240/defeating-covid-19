@@ -13,6 +13,8 @@ module.exports = {
       "coronavirus",
       "media",
       "share",
+      "anusri",
+      "saraf",
     ],
   },
   plugins: [
