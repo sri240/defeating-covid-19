@@ -3,6 +3,17 @@ module.exports = {
     title: `Defeating COVID-19`,
     description: `we can defeat covid, together.`,
     author: `@anusrisaraf`,
+    meta: [
+      "covid",
+      "covid-19",
+      "virus",
+      "startup",
+      "student-led",
+      "corona",
+      "coronavirus",
+      "media",
+      "share",
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
