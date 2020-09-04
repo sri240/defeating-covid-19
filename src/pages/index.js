@@ -192,6 +192,25 @@ const IndexPage = () => (
         <br></br>{" "}
         <div class="person">
           <p>
+            In the past few months I've worked to cofound Break The Outbreak, a
+            nonprofit organization that helps combat the pandemic. Besides this,
+            the pandemic has had a great effect on my life as a whole. I am an
+            avid runner and am on the Cross Country and Track and Field team at
+            my high school. Having my season and practice cancelled had a large
+            effect on my schedule and what I did as a hobby. However, this
+            allowed me to focus on my individual fitness and spend more time on
+            my sport because of no school. Losing face to face contact with many
+            of my friends was very difficult and using zoom to keep in tough was
+            a significant downgrade and something I am still get used to.
+            Overall, I am grateful to be in a position where the pandemic and
+            lockdown did not really affect me or my family in a severely
+            negative way. Still, 2021 could not come fast enough.
+          </p>{" "}
+          <h1 class="t">&nbsp; tanish kumar , bay area </h1>{" "}
+        </div>
+        <br></br>{" "}
+        <div class="person">
+          <p>
             I have spent a lot of time helping the community combat COVID-19
             this summer, I founded and operate a 501c(3) nonprofit organizations
             by producing and donating PPE, Hand Santizer, Care packages to small
@@ -206,6 +225,23 @@ const IndexPage = () => (
             (racism, public health, etc.).{" "}
           </p>{" "}
           <h1 class="t">&nbsp; sky yang, dublin</h1>{" "}
+        </div>
+        <br></br>{" "}
+        <div class="person">
+          <p>
+            Things have been going at a solid neutral ever since this pandemic
+            started. Thankfully my family and I haven’t been financially
+            impacted and life is similar to how it was before, just without any
+            of us traveling more than necessary. It’s unfortunate that all of
+            the spring sports were cut off before the season could get going but
+            I understand why. I’ve had more time to myself, and theoretically
+            this means I can get things done but all that’s happened is I’ve
+            gotten much better at procrastinating. This is in part because I no
+            longer have a normal schedule but mostly because I no longer have
+            any comprehension of days, weeks, or time. Deadlines and
+            appointments drive most of my actions.{" "}
+          </p>{" "}
+          <h1 class="t">&nbsp; elizabeth, california</h1>{" "}
         </div>
         <br></br>{" "}
         <div class="person">
