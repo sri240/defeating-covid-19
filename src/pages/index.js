@@ -307,6 +307,15 @@ const IndexPage = () => (
           </p>
           <h1 class="t">&nbsp; james wu, livermore</h1>
         </div>
+        <br></br>{" "}
+        <div class="person">
+          <p>
+            I haven't been affected by COVID myself, but the family of my
+            relative fell ill. Fortunately enough, none of them suffered serious
+            consequences{" "}
+          </p>{" "}
+          <h1 class="t">&nbsp; spektrum, ukraine</h1>{" "}
+        </div>
         <br></br>
         <div class="person">
           <p>
