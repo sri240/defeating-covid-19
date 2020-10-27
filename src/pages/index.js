@@ -118,9 +118,9 @@ const IndexPage = () => (
             most of the day. Listening to the news, I've realized that everyone,
             no matter in how miniscule of a manner, can have an impact on the
             current pandemic, which led me to create Defeating COVID-19.
-            Climbing the hill may be difficult, but we can together, and the
-            view from the summit is the ultimate reward: we can unite, share our
-            stories and positivity, and get over this pandemic.
+            <br></br>Climbing the hill may be difficult, but we can together,
+            and the view from the summit is the ultimate reward: we can unite,
+            share our stories and positivity, and get over this pandemic.
           </p>
           <h1 class="t">&nbsp; anusri saraf, bay area</h1>
         </div>
@@ -138,17 +138,18 @@ const IndexPage = () => (
             starting a blog; making new, meaningful connections; and better
             understanding the world around me. Throughout this crisis, I
             established a deeper relationship with my friends; we all shared a
-            common struggle but found strength in unity.This was the perfect
-            opportunity, as a freshman in high school, to reflect on me and
-            figure out what my next couple of years in life would be. Although
-            I’ve gone through various tragedies, including the death of my dog,
-            the key thing I learned was to have a positive outlook and continue
-            to remain a beacon of hope for those suffering through tragedy and
-            depression.2020 has been an unfortunate year, but that will not
-            prevent 2021 from repeating the same tragedy. I believe that with
-            the right attitude and treatment, the world we return to will not be
-            the same, but rather a wake-up call to remain proactive and forge
-            the opportunities ahead of us that will shape our future.
+            common struggle but found strength in unity. <br></br>This was the
+            perfect opportunity, as a freshman in high school, to reflect on me
+            and figure out what my next couple of years in life would be.
+            Although I’ve gone through various tragedies, including the death of
+            my dog, the key thing I learned was to have a positive outlook and
+            continue to remain a beacon of hope for those suffering through
+            tragedy and depression. <br></br>2020 has been an unfortunate year,
+            but that will not prevent 2021 from repeating the same tragedy. I
+            believe that with the right attitude and treatment, the world we
+            return to will not be the same, but rather a wake-up call to remain
+            proactive and forge the opportunities ahead of us that will shape
+            our future.
           </p>{" "}
           <h1 class="t">&nbsp; matt prado, bay area</h1>{" "}
         </div>
@@ -245,12 +246,12 @@ const IndexPage = () => (
             businesses, food industry, hospital, care facility. We have over 37
             chapters across 15 states now. And we got featured on many news
             media. And I am proud to say, some of those curves are being
-            flattened by us. (breaktheoutbreak.org) Besides that, I have been
-            watching a lot of TV shows, and played some games. Went out in
-            nature and enjoyed the sunshine I also joined COPE(Community
-            outbreak preparedness education), where we educate people on mental
-            health, outbreak preparedness, Intersectional public health advocacy
-            (racism, public health, etc.).{" "}
+            flattened by us. (breaktheoutbreak.org) <br></br>Besides that, I
+            have been watching a lot of TV shows, and played some games. Went
+            out in nature and enjoyed the sunshine. <br></br>I also joined
+            COPE(Community outbreak preparedness education), where we educate
+            people on mental health, outbreak preparedness, Intersectional
+            public health advocacy (racism, public health, etc.).{" "}
           </p>{" "}
           <h1 class="t">&nbsp; sky yang, dublin</h1>{" "}
         </div>
