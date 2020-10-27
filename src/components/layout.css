@@ -11,123 +11,124 @@ body {
   overflow: hidden;
 }
 @viewport {
-  width: device-width ;
-  zoom: 1.0 ;
+  width: device-width;
+  zoom: 1;
 }
-.uuu{
+.uuu {
   margin-left: 20%;
   margin-right: 20%;
 }
-.desc{
-  margin-top:-20px;
+.desc {
+  margin-top: -20px;
 }
-.themessage{
-  float:left;
-  margin:5px;
-  margin-top:10px;
-  padding-top:10px;
-  margin-bottom:10px;
-  margin-right:800px;
+.themessage {
+  float: left;
+  margin: 5px;
+  margin-top: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 800px;
   border-top: none;
   border-left: none;
   border-right: none;
   background-color: #f5fffa;
-  outline:none;
+  outline: none;
 }
-.owo{
-  float:left;
-  margin:5px;
-  margin-top:10px;
-  margin-bottom:10px;
+.owo {
+  float: left;
+  margin: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   border-top: none;
   border-left: none;
   border-right: none;
   background-color: #f5fffa;
-  outline:none;
+  outline: none;
 }
-.uwu{
-  float:left;
-  margin:5px;
-  border-color:transparent;
-  background:transparent;
-  outline:none;
+.uwu {
+  float: left;
+  margin: 5px;
+  border-color: transparent;
+  background: transparent;
+  outline: none;
 }
-.uwu:hover{
-  color:#7c9c8b;
+.uwu:hover {
+  color: #7c9c8b;
 }
-.contact{
-  color:black;
-  text-align:center;
-  padding:15px;
+.contact {
+  color: black;
+  text-align: center;
+  padding: 15px;
   padding-top: 0;
   padding-left: 0;
   width: 100vw;
 }
-.jjj{
-  color:#232f29;
+.jjj {
+  color: #232f29;
   text-align: left;
 }
-.con{
-  display:flex;
-  flex-direction:row;
+.con {
+  display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
 }
-.p{
+.p {
   padding-left: 20%;
   padding-right: 20%;
 }
-h1.t{
-  margin-top:-30px;
-  float:right;
+h1.t {
+  margin-top: -30px;
+  float: right;
   margin-bottom: 0px;
   text-align: right;
   width: 100%;
 }
-.opp{
+.opp {
   margin-bottom: 0px;
 }
-.dopp{
-  width:80%;
-  padding:5px;
+.dopp {
+  width: 80%;
+  padding: 5px;
   padding-left: 10px;
-  transition: .4s ease;
-  margin:5px;
+  transition: 0.4s ease;
+  margin: 5px;
 }
-.dopp:hover{
-  background:white;
+.dopp:hover {
+  background: white;
 }
-div.help{
+div.help {
   background-size: 100%;
   background: #bae6ce;
   margin-bottom: 0px;
 }
-.secheader{
+.secheader {
   margin-bottom: 0px;
-  color:#787878;
+  color: #787878;
 }
-h1.help{
+h1.help {
   padding-top: 18px;
   padding-left: 10px;
-  
 }
-.donate, .create{
-  padding:5px;
-  padding-left:3%;
+.donate,
+.create {
+  padding: 5px;
+  padding-left: 3%;
   width: 420px;
 }
-.stories{
+.stories {
   background: #e3ac94;
   margin-bottom: 0px;
 }
-h1.stories{
+h1.stories {
   padding-top: 18px;
   padding-left: 10px;
 }
-.person{
+.person {
   margin-left: 3%;
 }
-.donate, .create{
-  font-family: 'Montserrat', sans-serif;
+.donate,
+.create {
+  font-family: "Montserrat", sans-serif;
 }
 article,
 aside,
@@ -136,7 +137,7 @@ figcaption,
 figure,
 footer,
 header,
-main, 
+main,
 menu,
 nav,
 section,
@@ -164,7 +165,7 @@ a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
   text-decoration: none;
-  color:black;
+  color: black;
 }
 a:active,
 a:hover {
@@ -186,7 +187,7 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 mark {
   background-color: #ff0;
@@ -230,18 +231,18 @@ hr {
   overflow: visible;
 }
 button {
-  outline:none;
+  outline: none;
   font-size: large;
-  font-weight:lighter;
-  text-align:center;
-  display:inline-block;
-  text-decoration:none;
-  border:none;
-  margin:7px;
-  background:none;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  margin: 7px;
+  background: none;
+  font-family: "Montserrat", sans-serif;
 }
-button:hover{
+button:hover {
   color: #e3ac94;
 }
 input,
@@ -515,7 +516,7 @@ dd {
   margin-bottom: 1.45rem;
 }
 p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
@@ -584,11 +585,11 @@ blockquote {
 }
 form {
   font-size: 32px;
-  color:black;
-  font-weight:lighter;
-  font-family: 'Montserrat', sans-serif;
-  float:left;
-  text-align:left;
+  color: black;
+  font-weight: lighter;
+  font-family: "Montserrat", sans-serif;
+  float: left;
+  text-align: left;
   width: 100vw;
   margin-left: 0;
   margin-right: 0;
@@ -765,34 +766,35 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-  .p{
+  .p {
     padding-left: 10%;
     padding-right: 10%;
   }
-  .person{
+  .person {
     display: inline-block;
-    height:auto;
-    position:relative;
+    height: auto;
+    position: relative;
     padding-top: 20px;
   }
-  .t{
+  .t {
     margin-top: 15px;
-    padding-bottom:15px;
+    padding-bottom: 15px;
     border-bottom: 1px solid black;
   }
-  .uuu{
+  .uuu {
     margin-left: 10%;
     margin-right: 10%;
   }
-  h1.stories{
+  h1.stories {
     margin-bottom: -20px;
   }
 }
 @media only screen and (min-width: 480px) and (max-width: 1400px) {
-  .donate, .create{
-    width:100%;
+  .donate,
+  .create {
+    width: 100%;
   }
-  .dopp{
-    width:100%;
+  .dopp {
+    width: 100%;
   }
 }

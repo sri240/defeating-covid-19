@@ -25,67 +25,67 @@ const IndexPage = () => (
         <div class="con">
           <div class="donate">
             <h3 class="secheader">DONATE</h3>
-            <div class="dopp">
-              <a
-                href="https://www.unicefusa.org/?form=FUNXJWDPUKI&utm_content=corona3&ms=cpc_dig_2020_Emergencies_20200316_google_corona3_delve_none&initialms=cpc_dig_2020_Emergencies_20200316_google_corona3_delve_none&gclid=CjwKCAjwr7X4BRA4EiwAUXjbt1xxFMB4lOqdhuNUmATqAplV3-5nNlG-9xsmPo6EiGdvZ9cUQAlQJBoCMysQAvD_BwE"
-                rel="noreferrer noopener"
-                target="_blank"
-              >
+            <a
+              href="https://www.unicefusa.org/?form=FUNXJWDPUKI&utm_content=corona3&ms=cpc_dig_2020_Emergencies_20200316_google_corona3_delve_none&initialms=cpc_dig_2020_Emergencies_20200316_google_corona3_delve_none&gclid=CjwKCAjwr7X4BRA4EiwAUXjbt1xxFMB4lOqdhuNUmATqAplV3-5nNlG-9xsmPo6EiGdvZ9cUQAlQJBoCMysQAvD_BwE"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <div class="dopp">
                 <h1 class="opp">UNICEF</h1>
                 <p>Donate to protect children affected by the Coronavirus</p>
-              </a>
-            </div>
-            <div class="dopp">
-              <a
-                href="https://donate.worldvision.org/give/coronavirus-emergency-response?campaign=400042858&ds_rl=1280798&ds_rl=1280963&ds_rl=1280963&gclid=Cj0KCQjwu8r4BRCzARIsAA21i_BhMrrslytswvAoRBKusm0Z2UsCNtfrWhcFgEvemXHhBKzo5NOtqosaAq4CEALw_wcB&gclsrc=aw.ds"
-                rel="noreferrer noopener"
-                target="_blank"
-              >
+              </div>
+            </a>
+            <a
+              href="https://donate.worldvision.org/give/coronavirus-emergency-response?campaign=400042858&ds_rl=1280798&ds_rl=1280963&ds_rl=1280963&gclid=Cj0KCQjwu8r4BRCzARIsAA21i_BhMrrslytswvAoRBKusm0Z2UsCNtfrWhcFgEvemXHhBKzo5NOtqosaAq4CEALw_wcB&gclsrc=aw.ds"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <div class="dopp">
                 <h1 class="opp">World Vision</h1>
                 <p>Donate to Coronavirus Emergency Response</p>
-              </a>
-            </div>
-            <div class="dopp">
-              <a
-                href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate"
-                rel="noreferrer noopener"
-                target="_blank"
-              >
+              </div>
+            </a>
+            <a
+              href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <div class="dopp">
                 <h1 class="opp">WHO</h1>
                 <p>Donate to the COVID-19 Solidarity Response Fund</p>
-              </a>
-            </div>
+              </div>
+            </a>
           </div>
 
           <div class="create">
             <h3 class="secheader">CREATE</h3>
-            <div class="dopp">
-              <a
-                href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html"
-                rel="noreferrer noopener"
-                target="_blank"
-              >
+            <a
+              href="https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <div class="dopp">
                 <h1 class="opp">make a mask</h1>
                 <p>
                   Learn to make a mask using a CDC-approved method (easy to make
                   at home, with or without sewing!)
                 </p>
-              </a>
-            </div>
-            <div class="dopp">
-              <a
-                href="https://www.emersonhospital.org/EmersonHospital/media/PDF-files/coronavirus/Homemade-Face-Shield-Instructions.pdf"
-                rel="noreferrer noopener"
-                target="_blank"
-              >
+              </div>
+            </a>
+            <a
+              href="https://www.emersonhospital.org/EmersonHospital/media/PDF-files/coronavirus/Homemade-Face-Shield-Instructions.pdf"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <div class="dopp">
                 <h1 class="opp">make a face shield</h1>
                 <p>
                   Make a face shield for yourself or other frontline workers
                   from the comfort of your own home, with instructions from
                   Emerson Hospital.
                 </p>
-              </a>
-            </div>
+              </div>
+            </a>
           </div>
         </div>
       </div>
@@ -123,6 +123,34 @@ const IndexPage = () => (
             stories and positivity, and get over this pandemic.
           </p>
           <h1 class="t">&nbsp; anusri saraf, bay area</h1>
+        </div>
+        <br></br>
+        <div class="person">
+          <p>
+            Surprisingly, I adapted quite well to the pandemic. It reminded me a
+            lot of my childhood and wasn't hard for me to adjust to get a new,
+            safe routine in place of my old one. With or without school, I’ve
+            been taught that it’s always best to keep your mind sharp, focused,
+            and developed. I've been making capable use of my time indoors by
+            understanding new things, keeping my body physically and mentally
+            active, and making apt use of the internet's resources. Some
+            accomplishments I'm proud of highlighting include: a new job;
+            starting a blog; making new, meaningful connections; and better
+            understanding the world around me. Throughout this crisis, I
+            established a deeper relationship with my friends; we all shared a
+            common struggle but found strength in unity.This was the perfect
+            opportunity, as a freshman in high school, to reflect on me and
+            figure out what my next couple of years in life would be. Although
+            I’ve gone through various tragedies, including the death of my dog,
+            the key thing I learned was to have a positive outlook and continue
+            to remain a beacon of hope for those suffering through tragedy and
+            depression.2020 has been an unfortunate year, but that will not
+            prevent 2021 from repeating the same tragedy. I believe that with
+            the right attitude and treatment, the world we return to will not be
+            the same, but rather a wake-up call to remain proactive and forge
+            the opportunities ahead of us that will shape our future.
+          </p>{" "}
+          <h1 class="t">&nbsp; matt prado, bay area</h1>{" "}
         </div>
         <br></br>
         <div class="person">
